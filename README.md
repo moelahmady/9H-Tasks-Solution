@@ -28,7 +28,7 @@ A Node.js application demonstrating HubSpot Deals API integration with MongoDB s
 
 [View Source Code](https://github.com/moelahmady/9H-HubSpot-Deals-API-Integration.git)
 
-## API Error Handling Implementation
+## Task 2 : API Error Handling Implementation
 
 Demonstration of robust error handling in API integrations using Node.js and Axios.
 
