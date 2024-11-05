@@ -4,10 +4,10 @@ This repository contains solutions for API integration technical assessments.
 
 ## Table of Contents
 
-- [Task 1 : HubSpot Deals API Integration](#hubspot-deals-api-integration)
-- [Task 2 : API Error Handling Implementation](#api-error-handling-implementation)
-- [Task 3 : Quick SQL Query](#quick-sql-query)
-- [Task 4 : Rate Limiting](#rate-limiting)
+- [Task 1: HubSpot Deals API Integration](#task-1--hubspot-deals-api-integration)
+- [Task 2: API Error Handling Implementation](#task-2--api-error-handling-implementation)
+- [Task 3: Quick SQL Query](#task-3--quick-sql-query)
+- [Task 4: Rate Limiting](#task-4--how-you-would-handle-rate-limits-for-an-api-call-that-needs-to-process-high-volumes-of-data)
 
 ## Task 1 : HubSpot Deals API Integration
 
