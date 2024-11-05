@@ -4,12 +4,12 @@ This repository contains solutions for API integration technical assessments.
 
 ## Table of Contents
 
-- [HubSpot Deals API Integration](#hubspot-deals-api-integration)
-- [API Error Handling Implementation](#api-error-handling-implementation)
-- [Quick SQL Query](#quick-sql-query)
-- [Rate Limiting](#rate-limiting)
+- [Task 1 : HubSpot Deals API Integration](#hubspot-deals-api-integration)
+- [Task 2 : API Error Handling Implementation](#api-error-handling-implementation)
+- [Task 3 : Quick SQL Query](#quick-sql-query)
+- [Task 4 : Rate Limiting](#rate-limiting)
 
-## HubSpot Deals API Integration
+## Task 1 : HubSpot Deals API Integration
 
 A Node.js application demonstrating HubSpot Deals API integration with MongoDB synchronization.
 
